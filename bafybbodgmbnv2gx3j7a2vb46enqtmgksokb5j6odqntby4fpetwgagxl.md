@@ -8,6 +8,7 @@ m**arku**p external [link](http://ya.ru) color color2 int**erse*c**t*ions of mar
 
    
 [ ] checkbox   
+[x] checked   
    
 - bullet   
   - bullet   
@@ -47,8 +48,7 @@ code snippet
 Link to object:   
 [Object from wikipedia](bafybaste2nj5g44vbjepxoi5kdqwh3rc27d4cl332y6l3kh3rarf6m2m.md)    
    
-Mention the page   
-[Object from wikipedia](bafybaste2nj5g44vbjepxoi5kdqwh3rc27d4cl332y6l3kh3rarf6m2m.md)    
+Mention the page [Object from wikipedia](bafybaste2nj5g44vbjepxoi5kdqwh3rc27d4cl332y6l3kh3rarf6m2m.md) with text surrounding    
    
 Relation   
    
