@@ -1,6 +1,6 @@
  # Markdown test   
 Text   
-m**arku**p external [link](http://ya.ru) color color2 int**erse*c**t*ions of markup   
+m**arku**p *italic* external [link](http://ya.ru) color color2 int**erse*c**t*ions of markup   
  # H1   
  ## H2   
  ### H3   
@@ -39,11 +39,6 @@ Video
    
  --- 
  --- 
-```
-code snippet
-1
-2
-3```
    
 Link to object:   
 [Object from wikipedia](bafybaste2nj5g44vbjepxoi5kdqwh3rc27d4cl332y6l3kh3rarf6m2m.md)    
@@ -52,3 +47,14 @@ Mention the page [Object from wikipedia](bafybaste2nj5g44vbjepxoi5kdqwh3rc27d4cl
    
 Relation   
    
+```
+code snippet
+1
+2
+3```
+   
+some text after code snippet   
+   
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:   
